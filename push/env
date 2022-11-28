@@ -1,0 +1,23 @@
+    SNS: {
+        AWS_KEY: 'AKIAIKJT5SLA553FEMBA',
+        AWS_SECRET: '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',
+        SNS_REGION: 'us-west-2',
+        APPLICATION_ARN: 'arn:aws:sns:eu-west-2:641495960527:freestylecuts',
+
+        ARN_Android_Customer: 'arn:aws:sns:us-west-2:641495960527:app/GCM/Freestyle_Staging_Android_Customer',
+        ARN_Android_Stylist: 'arn:aws:sns:us-west-2:641495960527:app/GCM/Freestyle_Staging_Android_Stylist',
+
+        ARN_Ios_Customer: 'arn:aws:sns:us-west-2:641495960527:app/APNS_SANDBOX/Freestyle_Staging_Ios_Customer',
+        ARN_Ios_Stylist: 'arn:aws:sns:us-west-2:641495960527:app/APNS_SANDBOX/Freestyle_Staging_Ios_Stylist',
+
+        ARN_Android_Topic_Customer: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Staging_Android_Customer',
+        ARN_Android_Topic_Stylist: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Staging_Android_Stylist',
+
+        ARN_Ios_Topic_Customer: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Staging_Ios_Customer',
+        ARN_Ios_Topic_Stylist: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Staging_Ios_Stylist',
+        // ARN_Android_Topic_Customer: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Local_Android_Customer',
+        // ARN_Android_Topic_Stylist: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Local_Android_Stylist',
+
+        // ARN_Ios_Topic_Customer: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Local_Ios_Stylist',
+        // ARN_Ios_Topic_Stylist: 'arn:aws:sns:us-west-2:641495960527:Freestyle_Local_Ios_Stylist',
+    }
